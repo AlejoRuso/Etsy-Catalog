@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Etsy-Catalog/static/css/main.b2fb9379.css",
+    "main.js": "/Etsy-Catalog/static/js/main.a889feb0.js",
+    "static/js/453.1e7cc883.chunk.js": "/Etsy-Catalog/static/js/453.1e7cc883.chunk.js",
+    "index.html": "/Etsy-Catalog/index.html",
+    "main.b2fb9379.css.map": "/Etsy-Catalog/static/css/main.b2fb9379.css.map",
+    "main.a889feb0.js.map": "/Etsy-Catalog/static/js/main.a889feb0.js.map",
+    "453.1e7cc883.chunk.js.map": "/Etsy-Catalog/static/js/453.1e7cc883.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2fb9379.css",
+    "static/js/main.a889feb0.js"
+  ]
+}
